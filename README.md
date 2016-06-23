@@ -8,4 +8,4 @@ The tool takes care that every font character or image bitmap width is dividable
 In order to build this application, you need to have [Qt5](https://www.qt.io/download-open-source/#section-2) installed.
 
 ***
-![](https://raw.githubusercontent.com/andrei7c4/fontconverter/master/screenshot.png "")
+![](screenshot.png "")
